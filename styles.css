@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin: none;
+  background-image: linear-gradient(79deg, blue, grey, blue);
+}
+
+select {
+  width: 245px;
+  height: 40px;
+}
